@@ -99,3 +99,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# Java ignores
+.idea/
+*.class
+code/code.iml
